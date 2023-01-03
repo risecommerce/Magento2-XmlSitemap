@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Risecommerce (support@risecommerce.com). All rights reserved.
+ *
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <xmlsitemap>
+            <general>
+                <enabled>0</enabled>
+                <module>XmlSitemap</module>
+                <type>1</type>
+            </general>
+        </xmlsitemap>
+    </default>
+</config>
